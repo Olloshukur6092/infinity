@@ -1,0 +1,9 @@
+.for-select {
+    height: 40px;
+    width: 80px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.form-select {
+    font-size: 14px;
+}
