@@ -4,7 +4,7 @@ return [
     //header
     'Bosh_sahifa' => "Главная",
     'Biz_haqimizda' => "O нас",
-    'Xizmatlar' => "O нас",
+    'Xizmatlar' => "Сервисы",
     'Loyihalar' => "Проекты",
     'Sayt_yaratish' => "Создать сайт",
     'Bizning_jamoa' => "Наша Команда",
@@ -30,6 +30,7 @@ return [
     'SEO_optimallashtish' => "SEO-оптимизация",
     'sizning_sayt_qidiruv_tizimiza_yuqori' => "SEO-оптимизация SEO означает, что ваш сайт занимает высокие позиции в поисковой системе, и что ваш сайт выше, чем у конкурентов.",
     'Sayt_yaratish' => "Разработка Сайтов",
+    'Sayt_yaratish_Infinity' => "создание сайта Агентство интернет-маркетинга Infinity создает современные сайты и интернет-магазины для вашего бизнеса.",
     'internet_marketing ' => "Разработка и создание сайтов в Ташкенте Агентство INFINITY  интернет-маркетинга создает современные сайты и интернет-магазины для вашего бизнеса.",
     'Googleda_reklama' => "Контексная Реклама",
 
@@ -39,8 +40,8 @@ return [
     'Logotip_yasash' => "Разработка Логотипа",
     'Logotip_brendga' => "Логотип – это та самая частичка, придающая бренду мощный фундамент. Маркетинговое агентство Oqila является лидеров в Узбекистане в сфере разработки логотипа. Более 1880 довольных клиентов.",
     'SMM_xizmati' => "SMM продвижение",
-    'SMM_internet_reklama_xizmati' => "SMM продвижение от маркетингового агентство Oqila это привлечение клиентов, рост продаж за счет охвата целевой аудитории в популярных социальных сетях таких как Instagram, Youtube, Facebook.",
-   
+    'SMM_internet_reklama' => "SMM продвижение от маркетингового агентство Oqila это привлечение клиентов, рост продаж за счет охвата целевой аудитории в популярных социальных сетях таких как Instagram, Youtube, Facebook.",
+    'Internet_Marketing_xizmatlari' => "Услуги интернет-маркетинга",
     
     //footer
     'Menyu' => "Меню",
@@ -48,10 +49,10 @@ return [
     'Mirobod_tumani' => "Мирободский район, улица филиала Амира Темура, дом 31А",
     'Biz_haqimizda' => "O нас",
     'Aloqa_uchun' => "Aloqa uchun",
-    'Loyihalar' => "Loyihalar",
-    'Biz_bilan_boglaning' => "Biz bilan bog'laning",
+    'Loyihalar' => "Проекты",
+    'Biz_bilan_boglaning' => "Связаться с нами",
     '10_dan_ortiq_mijozlarimiz' => "Biz 10 dan ortiq mijozlarimizni xursand qildik. Sizga qanday yordam berishimiz mumkinligini bilish uchun biz bilan bog'laning!",
-    '' => "",
+    'Barcha_huquqlar_himoyalangan' => "Все права защищены",
     '' => "",
 
 ];

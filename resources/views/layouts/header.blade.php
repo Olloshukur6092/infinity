@@ -9,14 +9,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
-                <a href="index.html" class="nav-item nav-link active">{{__('lang.Bosh_sahifa')}}</a>
-                <a href="about.html" class="nav-item nav-link">{{__('lang.Biz_haqimizda')}}</a>
-                <a href="service.html" class="nav-item nav-link">{{__('lang.Xizmatlar')}}</a>
+                <a href="#" class="nav-item nav-link active">{{__('lang.Bosh_sahifa')}}</a>
+                <a href="{{route('about')}}" class="nav-item nav-link">{{__('lang.Biz_haqimizda')}}</a>
+                <a href="" class="nav-item nav-link">{{__('lang.Xizmatlar')}}</a>
                 <a href="project.html" class="nav-item nav-link">{{__('lang.Loyihalar')}}</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{__('lang.Sayt_yaratish')}}</a>
                     <div class="dropdown-menu m-0">
-                        <a href="team.html" class="dropdown-item">{{__('lang.Bizning_jamoa')}}</a>
+                        <a href="{{route('team')}}" class="dropdown-item">{{__('lang.Bizning_jamoa')}}</a>
                         <a href="testimonial.html" class="dropdown-item">{{__('lang.Guvohnoma')}}</a>
                         <!--<a href="404.html" class="dropdown-item">404 Page</a>-->
                     </div>

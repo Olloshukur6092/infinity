@@ -64,7 +64,7 @@
                             <div class="dropdown-menu m-0">
                                 <a href="team.html" class="dropdown-item">Our Team</a>
                                 <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="404.html" class="dropdown-item">404 Page</a>
+                                {{-- <a href="404.html" class="dropdown-item">404 Page</a> --}}
                             </div>
                         </div>
                         <a href="contact.html" class="nav-item nav-link active">Contact</a>
@@ -192,7 +192,7 @@
                         <h5 class="text-white mb-4">Project Gallery</h5>
                         <div class="row g-2">
                             <div class="col-4">
-                                <img class="img-fluid" src="img/uzte.png" alt="Image">
+                                <img class="img-fluid" src="{{essets('assets/img/uzte.png')}}" alt="Image">
                             </div>
                             <div class="col-4">
                                 <img class="img-fluid" src="img/portfolio-2.jpg" alt="Image">

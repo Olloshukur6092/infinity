@@ -12,7 +12,7 @@ return [
     'Contact' => "Contact",
     'Biz_bilan_biznesingiz' => "Biz bilan o'z biznesingizni yanada rivojlantiring",
     'Professional_jamoamiz' => "Professional jamoamiz bunda sizga eng mukammal yechimlarni taklif qiladi!",
-    '' => "",
+    'Internet_Marketing_xizmatlari' => "Internet Marketing xizmatlari",
     '' => "",
     '' => "",
 
@@ -33,17 +33,20 @@ return [
     'SEO_optimallashtish' => "SEO optimallashtish",
     'sizning_sayt_qidiruv_tizimiza_yuqori' => "SEO optimallashtish SEO - bu sizning sayt qidiruv tizimiza yuqori o’rinlarda turishi, raqobatchilardan saytingiz yuqorida bo’lishi",
     'Sayt_yaratish' => "Sayt yaratish",
-    'internet_marketing ' => "sayt yaratish Infinity internet marketing agentligi sizning biznesingiz uchun zamonaviy veb-saytlarni, internet-do'konlarni yaratadi.",
+    'Sayt_yaratish_Infinity' => "sayt yaratish Infinity internet marketing agentligi sizning biznesingiz uchun zamonaviy veb-saytlarni, internet-do'konlarni yaratadi.",
     'Googleda_reklama' => "Googleda reklama",
-
+    'SEO_optimallashtish_SEO' => "SEO optimallashtish SEO - bu sizning sayt qidiruv tizimiza yuqori o’rinlarda turishi, raqobatchilardan saytingiz yuqorida bo’lishi.",
     'Sizga_yangi_mijozlar' => "Sizga yangi mijozlar, savdo o'sishi, ko'proq foydalanuvchi trafigini hohlaysizmi? Google-da hamyonbob narxlarda professional internet reklama, kontekstli reklama buyurtma qilishni taklif qilamiz.",
     'Brend_yaratish' => "Brend yaratish",
     'Kreativ_va_takrorlanmaydigan_brend' => "Kreativ va takrorlanmaydigan brend nomini yaratishga yordam kerakmi ? Oqila Internet marketing agentligi biznesingiz uchun mukammal va kreativ brendlarni taklif etadi.",
     'Logotip_yasash' => "Logotip yasash",
     'Logotip_brendga' => "Logotip brendga kuchli poydevor beradigan qismdir. Infinity internet marketing agentligi logotip ishlab chiqish sohasida Oʻzbekistonda yetakchi hisoblanadi. 20 dan ortiq mamnun mijozlar.",
     'SMM_xizmati' => "SMM xizmati",
-    'SMM_internet_reklama_xizmati' => "SMM internet reklama xizmati: Instagram, Youtube, Facebook kabi ommabop ijtimoiy tarmoqlarda savdo hajmini oshirish uchun, auditoriyani qamrab olgan holda mijozlarni jalb qilishdan iborat.",
+    'SMM_internet_reklama' => "SMM internet reklama xizmati: Instagram, Youtube, Facebook kabi ommabop ijtimoiy tarmoqlarda savdo hajmini oshirish uchun, auditoriyani qamrab olgan holda mijozlarni jalb qilishdan iborat.",
     
+    //team
+      'Jamoamiz_azolari_bilan_tanishing'=> "Jamoamiz azolari bilan tanishing",  
+
     //footer
     'Menyu' => "Menyu",
     'Aloqa_bolimi' => "Aloqa bo'limi",
@@ -52,9 +55,7 @@ return [
     'Loyihalar' => "Loyihalar",
     'Biz_bilan_boglaning' => "Biz bilan bog'laning",
     '10_dan_ortiq_mijozlarimiz' => "Biz 10 dan ortiq mijozlarimizni xursand qildik. Sizga qanday yordam berishimiz mumkinligini bilish uchun biz bilan bog'laning!",
-    '' => "",
-    '' => "",
-
+    'Barcha_huquqlar_himoyalangan' => "Barcha huquqlar himoyalangan"
 
 
 

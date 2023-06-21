@@ -38,6 +38,7 @@
         </div>
     </div>
     <!-- About End -->
+
      <!-- Newsletter Start -->
      <div class="container-xxl bg-primary newsletter my-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container px-lg-5">
@@ -57,12 +58,13 @@
         </div>
     </div>
     <!-- Newsletter End -->
+
      <!-- Service Start -->
      <div class="container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative text-center mb-5 pb-2 wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="position-relative d-inline text-primary ps-4">{{__('lang.Bizning_xizmatlar')}}</h6>
-                <h2 class="mt-2">{{__('lang.Internet Marketing xizmatlari')}}</h2>
+                <h2 class="mt-2">{{__('lang.Internet_Marketing_xizmatlari')}}</h2>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
@@ -70,8 +72,8 @@
                         <div class="service-icon flex-shrink-0">
                             <i class="fa fa-home fa-2x"></i>
                         </div>
-                        <h5 class="mb-3">{{__('lang.SEO optimallashtish')}}</h5>
-                        <p>{{__('lang.')}}SEO optimallashtish SEO - bu sizning sayt qidiruv tizimiza yuqori o’rinlarda turishi, raqobatchilardan saytingiz yuqorida bo’lishi.</p>
+                        <h5 class="mb-3">{{__('lang.SEO_optimallashtish')}}</h5>
+                        <p>{{__('lang.sizning_sayt_qidiruv_tizimiza_yuqori')}}</p>
                         <a class="btn px-3 mt-auto mx-auto" href="">{{__('lang.Batafsil')}}</a>
                     </div>
                 </div>
@@ -81,7 +83,7 @@
                             <i class="fa fa-home fa-2x"></i>
                         </div>
                         <h5 class="mb-3">{{__('lang.Sayt_yaratish')}}</h5>
-                        <p>{{__('lang.')}}Sayt yaratish Infinity internet marketing agentligi sizning biznesingiz uchun zamonaviy veb-saytlarni, internet-do'konlarni yaratadi.</p>
+                        <p>{{__('lang.Sayt_yaratish_Infinity')}}</p>
                         <a class="btn px-3 mt-auto mx-auto" href="">{{__('lang.Batafsil')}}</a>
                     </div>
                 </div>
@@ -130,12 +132,72 @@
     </div>
     <!-- Service End -->
 
+   
 
-
-
-
-
-
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container px-lg-5">
+            <div class="section-title position-relative text-center mb-5 pb-2 wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="position-relative d-inline text-primary ps-4">{{__('lang.Bizning_jamoa')}}</h6>
+                <h2 class="mt-2">{{__('lang.Jamoamiz_azolari_bilan_tanishing')}}</h2>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item">
+                        <div class="d-flex">
+                            <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                            <img class="img-fluid rounded w-100" src="{{asset('assets/img/team-1.jpg')}}" alt="">
+                        </div>
+                        <div class="px-4 py-3">
+                            <h5 class="fw-bold m-0">Jaxongir</h5>
+                            <small>CEO</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item">
+                        <div class="d-flex">
+                            <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                            <img class="img-fluid rounded w-100" src="{{asset('assets/img/Shixnazar.jpg')}}" alt="">
+                        </div>
+                        <div class="px-4 py-3">
+                            <h5 class="fw-bold m-0">Shixnazar Dushamov</h5>
+                            <small>Project Manager</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="team-item">
+                        <div class="d-flex">
+                            <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
+                                <a class="btn btn-square text-primary bg-white my-1" href="https://www.facebook.com/shohruh.zaripov.52"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href="https://www.instagram.com/shoxruh_8899/"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square text-primary bg-white my-1" href="https://www.linkedin.com/in/shohruh-zaripov-2339931b7/"><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                            <img class="img-fluid rounded w-100" src="{{asset('assets/img/Shohruh.jpg')}}" alt="">
+                        </div>
+                        <div class="px-4 py-3">
+                            <h5 class="fw-bold m-0">Shohruh Zaripov</h5>
+                            {{-- <small>{{__('lang.Full_Stack_Developer')}}</small> --}}
+                            <small>Full Stack Developer</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
 
      <!-- Footer Start -->
      <div class="container-fluid bg-primary text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
@@ -188,10 +250,10 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
-                    <h5 class="text-white mb-4">{{__('lang.')}}Biz bilan bog'laning</h5>
+                    <h5 class="text-white mb-4">{{__('lang.Biz_bilan_boglaning')}}</h5>
                     <p>{{__('lang.')}}</p>
                     <div class="position-relative w-100 mt-3">
-                        <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Pochta manzilingiz: " style="height: 48px;">
+                        <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="{{__('lang.Pochta_manzilingiz')}}:" style="height: 48px;">
                         <button type="button" class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2"><i class="fa fa-paper-plane text-primary fs-4"></i></button>
                     </div>
                 </div>
@@ -201,7 +263,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">InfinityInnovation</a>,{{__('lang.Barcha_huquqlar_himoyalangan.')}} 
+                        &copy; <a class="border-bottom" href="#">InfinityInnovation</a>,{{__('lang.Barcha_huquqlar_himoyalangan')}}. 
                         
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
                          <!--Mo'ljallangan-->

@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\AboutController;
+use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LanguageController;
 use Illuminate\Support\Facades\Route;
 
@@ -21,3 +23,9 @@ Route::get('/', function(){
     return view('home');
 });
 Route::get('lang', [LanguageController::class, 'change'])->name('changeLang');
+
+Route::get('/team', [HomeController::class, 'index'])->name('team');
+
+Route::get('/about', [AboutController::class, 'index'])->name('about');
+
+
